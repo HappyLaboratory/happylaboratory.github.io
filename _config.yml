@@ -8,14 +8,14 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: Niemeyer-Research-Group/niemeyer-research-group.github.io
+repository: HappyLaboratory/happylaboratory.github.io
 
 medium_publication: nrg-excitations
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title: Niemeyer Research Group
+title: Hawkes Advanced Propulsion and Power (Happy) Lab
 tagline: Computational combustion and fluid dynamics
 institution:
   url: https://oregonstate.edu/
